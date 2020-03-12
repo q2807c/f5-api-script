@@ -1,1 +1,1 @@
-# f5-api-script
+Scripts working with F5 API
